@@ -4,5 +4,5 @@ does creating a goal make users stay, or do engaged users create goals? retentio
 project steps:
 pipeline architecture - pipeline.png
 lakehouse architecture - lakehouse.png
-semantic model - semantic model relationship.png
+semantic model - semantic model relationship power user myth.png
 project findings - findings.png and landmark.png 
